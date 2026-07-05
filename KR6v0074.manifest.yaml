@@ -21,11 +21,11 @@ editions:
 - short: ZW
 assets:
   parts:
-  - {seq: 0, filename: KR6v0074_000.yaml, hash: 'sha256:354466a45d009d19a357dfa7b236c38f851d8652dc5df4ac20a65f24c8231d66'}
-  - {seq: 1, filename: KR6v0074_001.yaml, hash: 'sha256:7469cab46a681fe8127186dbcaf689f4f5272d4ff28330c6567efa3f14905d8b'}
+  - {seq: 0, filename: KR6v0074_000.yaml, hash: 'sha256:f88a268f37dd5dea1cdd453e5a11e387aee10b5a8f398d6f435b85e9dba0d303'}
+  - {seq: 1, filename: KR6v0074_001.yaml, hash: 'sha256:67c3307c1ebaac9caa5d85e8cb6adfce7c9788232042c6e29012647531c005bb'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0074_000.markers.yaml, hash: 'sha256:21057597d114eab6dae31d8e2fbc9db400e7622dadf28eb5bb98be65202f1a60'}
-  - {seq: 1, role: markers, filename: assets/KR6v0074_001.markers.yaml, hash: 'sha256:288906af7d2f10ea99875a63d76f7c5f5970cd8ad6c16e31bdbe73d5c0340e1f'}
+  - {seq: 0, role: markers, filename: assets/KR6v0074_000.markers.yaml, hash: 'sha256:30bea466a8d8cd724fec83e50fd3acf56123d63cfcfafce79e8d2757980b9975'}
+  - {seq: 1, role: markers, filename: assets/KR6v0074_001.markers.yaml, hash: 'sha256:0c043d375d9ecc775d5808e0c71740e25242e572c2a95717d2b0677db8f71001'}
 table_of_contents:
 - ref:
     seq: 0
@@ -57,7 +57,4 @@ table_of_contents:
   label: 護國司南抄卷第一
   type: juan
   level: 1
-hash: sha256:c79fa7afbe3346e66bbaf6e05c70c62fb43b390325d0cf9ff9f75cae6f31f368
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:9f8dca10ffc1d254286a77b22a4328a8ff72e3fae725020dceba321b53d7be11
