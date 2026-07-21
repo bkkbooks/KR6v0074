@@ -21,17 +21,17 @@ editions:
 - short: ZW
 assets:
   parts:
-  - {seq: 0, filename: KR6v0074_000.yaml, hash: 'sha256:354466a45d009d19a357dfa7b236c38f851d8652dc5df4ac20a65f24c8231d66'}
+  - {seq: 0, filename: KR6v0074_000.yaml, hash: 'sha256:14cb6fde252c89f18ca1a2fe12cf0b76ead385f41165d0e34f03e83b23a3affb'}
   - {seq: 1, filename: KR6v0074_001.yaml, hash: 'sha256:fbab6b5edf8b7bc095486a677d18f08d01306c04acf30cae12a4b511c0296e8c'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0074_000.markers.yaml, hash: 'sha256:d305ce8e1f25b75b7cfb47b667a6e5641fc48bd25398565ab0f94842e54279f4'}
+  - {seq: 0, role: markers, filename: assets/KR6v0074_000.markers.yaml, hash: 'sha256:7c8f96ed311abd1363f08b54fa6e02b66817c1167ddfa764e144b5f1920dc4e9'}
   - {seq: 1, role: markers, filename: assets/KR6v0074_001.markers.yaml, hash: 'sha256:3be21ccd8d090aaa9441daefcea8e56520968d2c2695a6aa0d4b2fb55f740a3f'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6v0074_ZW_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 題解
@@ -41,7 +41,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0074_ZW_000-mulu-2
     span:
-    - front
+    - body
     - 957
     - 957
   label: 錄文
@@ -57,7 +57,7 @@ table_of_contents:
   label: 護國司南抄卷第一
   type: juan
   level: 1
-hash: sha256:742ea9083d031656bf5f8d5bfa93ed24d4b97fcf11598bfd76eb834a1f67253f
+hash: sha256:768fd56c658cf5ec6f8b7d188b41c6e14df2d4d7e272e3818e79b36969f9bfe4
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
